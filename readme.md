@@ -1,8 +1,9 @@
 # FastCode examples
+
 FastCode is a YoutTube series in Ramadan 2018, explaining the ES6 features in JavaScript (in Arabic), you can watch the whole series from [here](https://www.youtube.com/playlist?list=PLANjs1H0YEnSVe6rsjfoQzSmVk_BMJRRt).
 
-
 ## Table of content
+
 - EP01 - Introduction and Javascript history.
 - EP02 - Variables
 - EP03 - Functions
@@ -19,5 +20,5 @@ FastCode is a YoutTube series in Ramadan 2018, explaining the ES6 features in Ja
 - EP14 - What's Next?
 - EP15 - The All-in-one Video
 
-
 Links to be added later.
+some test from feature
